@@ -2,7 +2,7 @@
 baseurl: "https://yunliliu.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+
 
 # UI configs
 title: "Photography by Yun li Liu"
@@ -19,7 +19,7 @@ web_design: "AJ"
 social_urls:
   facebook: "https://www.facebook.com/ramswaroop"
   twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/ram_patra"
+  instagram: "https://www.instagram.com/yunli0308"
   dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+  linkedin: "https://in.linkedin.com/in/yunli0308"
+  github: "https://www.github.com/yunliliu"
